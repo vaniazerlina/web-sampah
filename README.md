@@ -26,8 +26,6 @@ Proyek ini adalah aplikasi untuk mendeteksi sampah menggunakan Streamlit.
    streamlit run app.py
    ```
 
-Berikut adalah versi yang diperbaiki untuk bagian README Anda berdasarkan gambar yang Anda unggah:
-
 ---
 
 ## Webcam Application
@@ -50,8 +48,3 @@ This feature provides a real-time feed from the selected camera. Users can view 
 ![Real-time Camera Feed](https://github.com/user-attachments/assets/f8e5c834-4674-4f5f-a45d-2409eabfcca1)
 
 ---
-
-Silakan sesuaikan atau tambahkan informasi lain yang diperlukan untuk memperjelas konteks aplikasi Anda. Jika ada bagian lain yang perlu diperbaiki atau ditambahkan, beri tahu saya!
-
-
-
